@@ -1,0 +1,6 @@
+{
+  "name": "Dual Space",
+  "description": "Multi-account app cloner and parallel space sandbox to run duplicate apps simultaneously with isolated privacy storage and app lock.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
